@@ -14,7 +14,7 @@ The code will look like the following:
  REP=1), family=binomial)
 ```
 
-As R is free and open source software, you will only need to download and install it from https://www. r-proj ect. org/. Although it is not mandatory, it is highly recommended that you download IDE and RStudio from https://www. rstudio. com/products/RStudio/.
+As R is free and open source software, you will only need to download and install it from https://www.r-project.org/. Although it is not mandatory, it is highly recommended that you download IDE and RStudio from https://www.rstudio.com/products/RStudio/.
 
 ## Related Products
 * [Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784393908)
